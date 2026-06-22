@@ -1,0 +1,8 @@
+{
+  "name": "Elite Glanz",
+  "description": "Professionelle Gebäudereinigung und Fensterreinigung in Ludwigshafen und Umgebung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
